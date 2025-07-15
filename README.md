@@ -27,7 +27,7 @@ This project is a SQL-based booking system that manages user reservations for fl
 
 ## 🗂️ File Contents
 
-All project logic is contained in the file:Project 1.sql
+All project logic is contained in the file:sql_booking_system_project.sql
 
 
 ## 🛠️ Technologies Used
