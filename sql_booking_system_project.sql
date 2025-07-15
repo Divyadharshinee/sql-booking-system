@@ -1,4 +1,4 @@
-                                 --   PROJECT 1 (BOOKING SYSTEM)
+                                 --   sql_booking_system_project (BOOKING SYSTEM)
 
 create database project1;
 
